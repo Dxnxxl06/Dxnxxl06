@@ -13,7 +13,7 @@
 <p align="center">
   Construyo APIs y aplicaciones backend en Java&nbsp;17 con Spring&nbsp;Boot y en .NET con C#.<br>
   Trabajo el dominio con DDD: entidades, value objects y servicios con flujo transaccional.<br>
-  Llegué al backend pasando por Python y por frontend, así que me manejo en el stack completo.
+  También me muevo en el frontend con Vue&nbsp;3 y TypeScript, consumiendo esas mismas APIs.
 </p>
 
 <br>
@@ -41,8 +41,12 @@
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=D97706">
+  <img alt="Vue 3" src="https://img.shields.io/badge/Vue_3-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=D97706">
+  <img alt="Pinia" src="https://img.shields.io/badge/Pinia-0D1117?style=for-the-badge&logo=pinia&logoColor=D97706">
   <img alt="React" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=D97706">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=D97706">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=D97706">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=D97706">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=D97706">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=D97706">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css&logoColor=D97706">
@@ -74,6 +78,21 @@ Sistema de gestión para una clínica odontológica. Trabajé en la **API REST e
 ![Oracle](https://img.shields.io/badge/Oracle-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=D97706)
 ![Swagger](https://img.shields.io/badge/Swagger-0D1117?style=flat-square&logo=swagger&logoColor=D97706)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### Nodux &nbsp;·&nbsp; 🔒 repo privado &nbsp;·&nbsp; proyecto en equipo
+
+Herramienta de gestión de proyectos: tablero, backlog, sprints, actividades, registro de horas y feed de comentarios en tiempo real. Construí vistas y lógica del **frontend en Vue 3 con TypeScript**: la tabla de actividades global y por proyecto, filtros sincronizados con la URL, paginación, exportaciones y el consumo de eventos en tiempo real. Buena parte del trabajo fue **alinear el cliente con los contratos DTO del backend** y cubrirlo con pruebas.
+
+![Vue 3](https://img.shields.io/badge/Vue_3-0D1117?style=flat-square&logo=vuedotjs&logoColor=D97706)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=D97706)
+![Pinia](https://img.shields.io/badge/Pinia-0D1117?style=flat-square&logo=pinia&logoColor=D97706)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=D97706)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=D97706)
 
 </td>
 </tr>
