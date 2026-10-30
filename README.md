@@ -1,7 +1,7 @@
 <h1 align="center">devDaniel</h1>
 
 <p align="center">
-  <b>Backend developer</b> &nbsp;·&nbsp; Java 17 & Spring Boot &nbsp;·&nbsp; Bucaramanga, Colombia
+  <b>Backend developer</b> &nbsp;·&nbsp; Java & Spring Boot &nbsp;·&nbsp; .NET & C# &nbsp;·&nbsp; Bucaramanga, Colombia
 </p>
 
 <p align="center">
@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  Construyo APIs y aplicaciones backend con Java&nbsp;17 y Spring&nbsp;Boot.<br>
-  Llegué al backend pasando por Python y por frontend, así que me manejo en el stack completo.<br>
-  Ahora estoy profundizando en arquitectura por capas, DDD y buenas prácticas de persistencia.
+  Construyo APIs y aplicaciones backend en Java&nbsp;17 con Spring&nbsp;Boot y en .NET con C#.<br>
+  Trabajo el dominio con DDD: entidades, value objects y servicios con flujo transaccional.<br>
+  Llegué al backend pasando por Python y por frontend, así que me manejo en el stack completo.
 </p>
 
 <br>
@@ -24,19 +24,25 @@
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=D97706">
   <img alt="Spring MVC" src="https://img.shields.io/badge/Spring_MVC-0D1117?style=for-the-badge&logo=spring&logoColor=D97706">
   <img alt="Maven" src="https://img.shields.io/badge/Maven-0D1117?style=for-the-badge&logo=apachemaven&logoColor=D97706">
+  <img alt="C# y .NET" src="https://img.shields.io/badge/C%23_/_.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=D97706">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=D97706">
   <img alt="Express" src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=D97706">
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-0D1117?style=for-the-badge&logo=swagger&logoColor=D97706">
 </p>
 
 <h3 align="center">Datos</h3>
 <p align="center">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=D97706">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=D97706">
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117">
+  <img alt="PL/SQL" src="https://img.shields.io/badge/PL%2FSQL-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117">
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=D97706">
+  <img alt="React" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=D97706">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=D97706">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=D97706">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=D97706">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css&logoColor=D97706">
@@ -56,6 +62,21 @@
 <h2 align="center">Proyectos</h2>
 
 <table>
+<tr>
+<td colspan="2">
+
+### NexusOdonto &nbsp;·&nbsp; 🔒 repo privado &nbsp;·&nbsp; proyecto en equipo
+
+Sistema de gestión para una clínica odontológica. Trabajé en la **API REST en .NET / C#**, aplicando Domain-Driven Design: entidades de dominio (`Persona`, `Paciente`, `Profesional`, `Servicio`), value objects (`Price`, `ServiceDuration`, `Phone`, `TimeOfDay`, `ProfessionalLicense`), DTOs con validadores y mapeo vía Mapster, y servicios con flujo transaccional. También **dockericé la API** con Oracle, Swagger y migraciones automáticas, y documenté la arquitectura y los endpoints.
+
+![C# / .NET](https://img.shields.io/badge/C%23_/_.NET-0D1117?style=flat-square&logo=dotnet&logoColor=D97706)
+![DDD](https://img.shields.io/badge/DDD-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
+![Oracle](https://img.shields.io/badge/Oracle-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=D97706)
+![Swagger](https://img.shields.io/badge/Swagger-0D1117?style=flat-square&logo=swagger&logoColor=D97706)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
