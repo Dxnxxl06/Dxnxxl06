@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="Abierto a prácticas" src="https://img.shields.io/badge/Abierto_a_pr%C3%A1cticas-D97706?style=for-the-badge&labelColor=0D1117">
   <a href="mailto:danielplazas1929@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D97706"></a>
-  <a href="https://github.com/Dxnxxl06?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repositorios-0D1117?style=for-the-badge&logo=github&logoColor=D97706"></a>
+  <a href="https://github.com/Dxnxxl06?tab=repositories"><img alt="Repositorios" src="https://img.shields.io/badge/Repositorios-0D1117?style=for-the-badge&logo=github&logoColor=D97706"></a>
 </p>
 
 <p align="center">
@@ -18,43 +18,117 @@
 
 <br>
 
-<h2 align="center">Stack</h2>
-
+<h3 align="center">Backend</h3>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,nodejs,express,ts,js,html,css,python,docker,git&theme=dark&perline=7">
-    <img alt="Java, Spring Boot, Maven, PostgreSQL, MySQL, Node.js, Express, TypeScript, JavaScript, HTML, CSS, Python, Docker, Git" src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,nodejs,express,ts,js,html,css,python,docker,git&theme=light&perline=7">
-  </picture>
+  <img alt="Java 17" src="https://img.shields.io/badge/Java_17-0D1117?style=for-the-badge&logo=openjdk&logoColor=D97706">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=D97706">
+  <img alt="Spring MVC" src="https://img.shields.io/badge/Spring_MVC-0D1117?style=for-the-badge&logo=spring&logoColor=D97706">
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-0D1117?style=for-the-badge&logo=apachemaven&logoColor=D97706">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=D97706">
+  <img alt="Express" src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=D97706">
+</p>
+
+<h3 align="center">Datos</h3>
+<p align="center">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=D97706">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=D97706">
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=D97706">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=D97706">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=D97706">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css&logoColor=D97706">
+  <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-0D1117?style=for-the-badge&logo=thymeleaf&logoColor=D97706">
+</p>
+
+<h3 align="center">Herramientas</h3>
+<p align="center">
+  <img alt="Git" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=D97706">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=D97706">
+  <img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=D97706">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=D97706">
 </p>
 
 <br>
 
 <h2 align="center">Proyectos</h2>
 
-<p align="center">
-  <a href="https://github.com/Dxnxxl06/ddd-app"><img alt="ddd-app" src="https://github-readme-stats.vercel.app/api/pin/?username=Dxnxxl06&repo=ddd-app&bg_color=00000000&hide_border=true&title_color=D97706&text_color=768390&icon_color=D97706&description_lines_count=2"></a>
-  <a href="https://github.com/Dxnxxl06/Spring_Boot_Roles"><img alt="Spring_Boot_Roles" src="https://github-readme-stats.vercel.app/api/pin/?username=Dxnxxl06&repo=Spring_Boot_Roles&bg_color=00000000&hide_border=true&title_color=D97706&text_color=768390&icon_color=D97706&description_lines_count=2"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Dxnxxl06/CrediYa_Java"><img alt="CrediYa_Java" src="https://github-readme-stats.vercel.app/api/pin/?username=Dxnxxl06&repo=CrediYa_Java&bg_color=00000000&hide_border=true&title_color=D97706&text_color=768390&icon_color=D97706&description_lines_count=2"></a>
-  <a href="https://github.com/Dxnxxl06/pruebaNivelacionTecnica"><img alt="pruebaNivelacionTecnica" src="https://github-readme-stats.vercel.app/api/pin/?username=Dxnxxl06&repo=pruebaNivelacionTecnica&bg_color=00000000&hide_border=true&title_color=D97706&text_color=768390&icon_color=D97706&description_lines_count=2"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Dxnxxl06/Weather_Telegram_Bot_Exam"><img alt="Weather_Telegram_Bot_Exam" src="https://github-readme-stats.vercel.app/api/pin/?username=Dxnxxl06&repo=Weather_Telegram_Bot_Exam&bg_color=00000000&hide_border=true&title_color=D97706&text_color=768390&icon_color=D97706&description_lines_count=2"></a>
-  <a href="https://github.com/Dxnxxl06/Ferreteria-app"><img alt="Ferreteria-app" src="https://github-readme-stats.vercel.app/api/pin/?username=Dxnxxl06&repo=Ferreteria-app&bg_color=00000000&hide_border=true&title_color=D97706&text_color=768390&icon_color=D97706&description_lines_count=2"></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [ddd-app](https://github.com/Dxnxxl06/ddd-app)
+
+Aplicación Spring Boot estructurada en capas `domain`, `application` e `infrastructure`, como ejercicio de Domain-Driven Design.
+
+![Java](https://img.shields.io/badge/Java_17-0D1117?style=flat-square&logo=openjdk&logoColor=D97706)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=D97706)
+![Maven](https://img.shields.io/badge/Maven-0D1117?style=flat-square&logo=apachemaven&logoColor=D97706)
+
+</td>
+<td width="50%" valign="top">
+
+### [Spring_Boot_Roles](https://github.com/Dxnxxl06/Spring_Boot_Roles)
+
+Gestión de usuarios y roles con vistas server-side y persistencia en PostgreSQL.
+
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-0D1117?style=flat-square&logo=spring&logoColor=D97706)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-0D1117?style=flat-square&logo=thymeleaf&logoColor=D97706)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=D97706)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [CrediYa_Java](https://github.com/Dxnxxl06/CrediYa_Java)
+
+Sistema de gestión de créditos en Java, con el esquema de base de datos versionado en el repositorio.
+
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=D97706)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=D97706)
+![Maven](https://img.shields.io/badge/Maven-0D1117?style=flat-square&logo=apachemaven&logoColor=D97706)
+
+</td>
+<td width="50%" valign="top">
+
+### [pruebaNivelacionTecnica](https://github.com/Dxnxxl06/pruebaNivelacionTecnica)
+
+API REST con rutas, controladores y middlewares separados por responsabilidad.
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=D97706)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=D97706)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Weather_Telegram_Bot](https://github.com/Dxnxxl06/Weather_Telegram_Bot_Exam)
+
+Bot de clima para Telegram que consume una API externa, orquestado como workflow de automatización.
+
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=D97706)
+![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=D97706)
+
+</td>
+<td width="50%" valign="top">
+
+### [Ferreteria-app](https://github.com/Dxnxxl06/Ferreteria-app)
+
+Aplicación Java de gestión para ferretería con módulo de seguridad.
+
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=D97706)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=D97706)
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<h2 align="center">Actividad</h2>
-
 <p align="center">
-  <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Dxnxxl06&show_icons=true&hide_rank=true&bg_color=00000000&hide_border=true&title_color=D97706&text_color=768390&icon_color=D97706">
-  <img alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dxnxxl06&layout=compact&langs_count=6&bg_color=00000000&hide_border=true&title_color=D97706&text_color=768390&exclude_repo=Html,JavaScrip,JavaScript,jsNew,Ejercicios,Ejercicios_1,55_Ejercicos,Examen-Html,git-Primeros-pasos,POO,Proyecto-HTML,Proyecto_Python_Montoya_Sebastian_Plazas_Daniel,Tienda_python,Diccionario_lol,CRUD_in_Json,Maquetaciones-Html,Proyecto_python,Exam_Python,Tareas_Python_Daniel,Evaluacion_Js,Body_Consultor,Git-branch-conflicto,Proyecto_Daniel,Libreria_mundo_sofia,Examen_Mysql,Git-GitHub-Daniel">
-</p>
-
-<br>
-
-<p align="center">
-  <a href="mailto:danielplazas1929@gmail.com">danielplazas1929@gmail.com</a>
+  <a href="mailto:danielplazas1929@gmail.com"><img alt="Escríbeme" src="https://img.shields.io/badge/danielplazas1929@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=D97706"></a>
 </p>
